@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POO_FInal_2024_UAI.Form1" Collapsed="true">
+    <Position X="11.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAACAAAACAAAAAAAAACAAAAAAABA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Program" Collapsed="true">
+    <Position X="13" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Properties.Resources" Collapsed="true">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Properties.Settings" Collapsed="true">
+    <Position X="13" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.SerVivo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SerVivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Animal" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Planta" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Planta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Herbivoro" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFABAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Herbivoro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.Carnivoro" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFABAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Carnivoro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO_FInal_2024_UAI.GestorAlimentacion">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABABCAAAACAAAEAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>GestorAlimentacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
