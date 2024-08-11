@@ -1,4 +1,4 @@
-****Practicas 2024 UAI POO 2do Parcial****
+# Practicas 2024 UAI POO 2do Parcial
 
 **Práctica 2do Parcial - Enunciado**
 
