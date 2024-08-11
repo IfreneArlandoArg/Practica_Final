@@ -12,20 +12,13 @@ En todos los casos se conoce el nombre registrado de la misma, el color, y la po
 Para los veleros el costo de amarre es un 50% mayor a la lancha, y para los cruceros el costo es el 80% a la lancha pero se le adiciona un seguro de $1000 por día
 
 Se requiere un sistema desarrollado en C# que permita:
-
-Alta y modificación de embarcaciones
-
-Alta de därsenas
-
-Informar mediante un evento cuando no haya más dársenas disponibles 
-Listar las därsenas ordenadas por número
-
-Listar las embarcaciones ordenadas por nombre
+* Alta y modificación de embarcaciones
+* Alta de därsenas
+* Informar mediante un evento cuando no haya más dársenas disponibles 
+* Listar las därsenas ordenadas por número
+* Listar las embarcaciones ordenadas por nombre
 
 Requerimientos de aprobación:
-
-Uso de DLL
-
-Uso de Herencia y Polimorfismo Uso de eventos
-
-Implementar interfaz todos los ordenamientos
+* Uso de DLL
+* Uso de Herencia y Polimorfismo Uso de eventos
+* Implementar interfaz todos los ordenamientos
