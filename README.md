@@ -1,6 +1,6 @@
 # Practicas 2024 UAI POO 2do Parcial
 
-**Práctica 2do Parcial - Enunciado**
+**Parte práctica 2do Parcial - Enunciado**
 
 Una guardería náutica necesita un sistema para poder administrar sus alquileres. Cada alquiler tiene un plazo mínimo de 24 Hs, y los costos dependen del tipo de embarcación que amarre. Las embarcaciones habilitadas para la guarderia son:
 * Velero
