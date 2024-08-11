@@ -3,12 +3,9 @@
 **Práctica 2do Parcial - Enunciado**
 
 Una guardería náutica necesita un sistema para poder administrar sus alquileres. Cada alquiler tiene un plazo mínimo de 24 Hs, y los costos dependen del tipo de embarcación que amarre. Las embarcaciones habilitadas para la guarderia son:
-
-Velero
-
-Lancha
-
-Crucero
+* Velero
+* Lancha
+* Crucero
 
 En todos los casos se conoce el nombre registrado de la misma, el color, y la potencia del motor expresada en Kw.
 
